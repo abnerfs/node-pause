@@ -1,7 +1,7 @@
 {
   "name": "node-pause",
-  "version": "1.0.0",
-  "description": "cmd pause command for node",
+  "version": "1.0.1",
+  "description": "Simple module to wait for a key be pressed to continue, like the \"pause\" command in windows command prompt.",
   "main": "node-pause.js",
   "repository": "https://github.com/abnerfs/node-pause",
   "author": "Abner Ferreira Santos <abnerfs@gmail.com>",
