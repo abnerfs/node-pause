@@ -1,0 +1,10 @@
+{
+  "name": "node-pause",
+  "version": "1.0.0",
+  "description": "cmd pause command for node",
+  "main": "node-pause.js",
+  "repository": "https://github.com/abnerfs/node-pause",
+  "author": "Abner Ferreira Santos <abnerfs@gmail.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
