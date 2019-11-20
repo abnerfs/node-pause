@@ -1,5 +1,7 @@
 # Node Pause
 
+![Downloads](https://img.shields.io/npm/dt/node-pause "Downloads") ![Last commit](https://img.shields.io/github/last-commit/abnerfs/node-pause "Last Commit") ![Dependencies](https://img.shields.io/david/abnerfs/node-pause)
+
 Simple module to wait for a key be pressed to continue, like the "pause" command in windows command prompt.
 
 # Installation
